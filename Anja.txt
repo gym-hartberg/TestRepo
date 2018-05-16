@@ -1,1 +1,7 @@
 Moick
+<<<<<<< HEAD
+
+Hallo
+=======
+Irgendwas
+>>>>>>> 2e912f21a6635b6c3c195636d721e67eb78bb220
